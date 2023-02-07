@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello World! I'm Andrii.</h1>
  
+### I am looking for a job/internship
+<h3>Development, practice and work for a result are important for me.
+I am a fast learner, responsible and ready for challenging tasks. </h3>
+ 
 ### My skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
