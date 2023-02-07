@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Andrii.</h1>
- 
-### I am looking for a job/internship
-Development, practice and work for a result are important for me.
-I am a fast learner, responsible and ready for challenging tasks.
+<h2 align="center">👋 Hello World! I'm Andrii.</h2>
  
 ### My skills
 <p align="center">
@@ -21,7 +17,7 @@ I am a fast learner, responsible and ready for challenging tasks.
 <a href="https://www.linkedin.com/in/andrii-yarmosh-006944a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### My GitHub Stats
+### My badges
 <p align="center">
 <a href="http://www.github.com/HeadOd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HeadOd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
